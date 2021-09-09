@@ -41,6 +41,8 @@ Link to About Me : [AboutMe](AboutMe.md)
 
 ---
 
+### Quotes
+
 Innovation distinguishes between a leader and a follower - *Steve Jobs*
 
 One of the only ways to get out of a tight box is to invent your way out – *Jeff Bezos*
