@@ -25,3 +25,16 @@
 - Artistic souvenirs from the Museum of Modern Art
 
 Link to About Me : [AboutMe](AboutMe.md)
+
+---
+
+### Best Recommend Food/Drinks
+
+- Some of the Signature dishes which would be Recommended and famous from it's place.
+
+| Item | Location  | Price  |
+|---|---|---|
+| Dosa  | Ram Ki Bandi  | $1-$2  |
+| Hyderabadi Briyani  | Cafe Bahar  | $7-$10 |
+| Chaach  | Haryana  | $2-$3  |
+| Fenny  | Goa   | $10-$50 |
