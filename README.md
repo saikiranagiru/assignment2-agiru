@@ -17,3 +17,10 @@
     4. Ohio
     5. Pennsylvania
 3. The maximum distance is covered on I-80 interstate which covers from West Coast to East Coast.
+
+- Pressed Pennies
+- Chocolate Treats
+- Gamers Swag Merchandise from Nintendo
+- New York-themed trinkets
+- Artistic souvenirs from the Museum of Modern Art
+
