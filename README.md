@@ -38,3 +38,9 @@ Link to About Me : [AboutMe](AboutMe.md)
 | Hyderabadi Briyani  | Cafe Bahar  | $7-$10 |
 | Chaach  | Haryana  | $2-$3  |
 | Fenny  | Goa   | $10-$50 |
+
+---
+
+Innovation distinguishes between a leader and a follower - *Steve Jobs*
+
+One of the only ways to get out of a tight box is to invent your way out – *Jeff Bezos*
